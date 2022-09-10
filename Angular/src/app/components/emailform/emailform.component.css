@@ -1,0 +1,10 @@
+.field{
+    width: 100%;
+}
+.card{
+    width: 50%;
+    margin: auto;
+}
+.container{
+    margin-top: 20px;
+}
